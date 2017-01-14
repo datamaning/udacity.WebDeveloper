@@ -1,5 +1,6 @@
 # Full Stack Nanodegree Project 1
 
+by George Richardo,in fulfillment of Udacity's [Full-Stack Web Developer Nanodegree](https://www.udacity.com/course/nd004)
 ## Dependencies
 
 Python must be installed in the environment.
