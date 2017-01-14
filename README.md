@@ -1,4 +1,21 @@
-## Udacity.WebDeveloper
-use python to learn how to build a web
-* Project 
-Nearly five or nine projects,all project will be here!
+# Full Stack Nanodegree Project 1
+
+## Dependencies
+
+Python must be installed in the environment.
+
+## Directory Structure
+
+```
+/
+|--entertainment_center.py
+|--fresh_tomatoes.py
+|--media.py
+|--README
+```
+
+## Execution
+
+`python entertainment_center.py`
+
+This will open a browser session to the generated file fresh_tomatoes.html.
