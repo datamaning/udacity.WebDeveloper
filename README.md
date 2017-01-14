@@ -8,7 +8,7 @@ Python must be installed in the environment.
 
 ```
 /
-|--entertainment_center.py
+|--entertainment.py
 |--fresh_tomatoes.py
 |--media.py
 |--README
@@ -16,6 +16,6 @@ Python must be installed in the environment.
 
 ## Execution
 
-`python entertainment_center.py`
+`python entertainment.py`
 
 This will open a browser session to the generated file fresh_tomatoes.html.
